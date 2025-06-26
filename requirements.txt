@@ -1,0 +1,9 @@
+documents>=0.0.1
+faiss-cpu>=1.11.0
+langchain>=0.3.26
+langchain-community>=0.3.26
+langchain-core>=0.3.66
+langchain-google-genai>=2.1.5
+pymupdf>=1.26.1
+scikit-learn>=1.7.0
+streamlit>=1.46.0
