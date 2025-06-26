@@ -1,0 +1,22 @@
+Data Scientist (ML) - India
+    Location: Indore/Hybrid 
+    Work Experience: 3-5 yr 
+    Salary: 15-25 LPA
+
+    Core Skills:
+    • Python (Pandas, PyTorch) | SQL/NoSQL |  ML Algorithms
+    • Cloud (AWS/GCP) | Power BI/Tableau
+
+    Key Responsibilities:   
+    • Develop predictive models for Indian market problems
+    • Build data pipelines (Spark/Hadoop)
+    • Deploy ML solutions (Flask/Django)
+    • Generate business insights from complex data
+
+    Requirements:
+    • B.Tech/M.Tech in CS/Stats
+    • 3+ yrs hands-on ML experience
+    • Certifications preferred (AWS/Azure ML)
+
+    Keywords:
+    Machine Learning, Deep Learning, NLP, MLOps, Feature Engineering, A/B Testing
